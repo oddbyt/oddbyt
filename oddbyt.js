@@ -64,7 +64,7 @@ function replaceFlash() {
 		setVisibility("back", true, false);
 
 	// ADAPT FILE NAME SCHEMA HERE
-	var flashpath = "https://oddbyt.prv.pl/z0r.swf" + curflashloop + ".swf";
+	var flashpath = "z0r.swf" + curflashloop + ".swf";
 	// for leeching directly off z0r.de (don't do it)
 	//var flashpath = "http://raz.z0r.de/L/z0r-de_" + curflashloop + ".swf";
 	
